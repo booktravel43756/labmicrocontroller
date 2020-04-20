@@ -9,7 +9,11 @@
 
 -การทดลองที่ 4 : การประยุกต์ใช้ไมโครคอนโทรลเลอร์
 
+#เพิ่มเติม
+
 -การสมัคร Github การ Fork และ Edit
+
+-การสร้าง Github pages
 
 
 [สรุปผลการทดลองที่ 1]( https://drive.google.com/file/d/1qCL_RRietEgvkBRSDisfL8yahF-nd1DN/view?usp=drivesdk )
@@ -21,4 +25,8 @@
 [สรุปผลการทดลองที่ 4]( https://youtu.be/AI806wfq3wE )
 
 [วิธีการสมัคร Github]( https://youtu.be/lzg5Go7LMK4 )
+
+[วิธีการสร้าง Github pages]( https://junenatcharita.github.io/labmicrocontroller/ )
+
+
 
