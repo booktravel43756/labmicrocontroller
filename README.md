@@ -26,7 +26,7 @@
 
 [วิธีการสมัคร Github]( https://youtu.be/lzg5Go7LMK4 )
 
-[วิธีการสร้าง Github pages]( https://junenatcharita.github.io/labmicrocontroller/ )
+[วิธีการสร้าง Github pages]( https://youtu.be/lzDTA_FbUpQ )
 
 
 
